@@ -1,2 +1,5 @@
 # Escaping-quotes
-Escaping quotes in JS 
+
+
+var text = 'L\'albero means tree in Italian';
+console.log( text ); \\ "L'albero means tree in Italian"
